@@ -1,4 +1,4 @@
-# MLwithTenserflow
+# MLwithTensorflow
 Udacity Machine Learning with Tensorflow
 <h1>Step 1- Install Anaconda</h1>
 Install Anaconda - https://www.anaconda.com/products/individual
